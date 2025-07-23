@@ -4,26 +4,10 @@
 
 Hi, I'm Aurelio Miguel,
 
-I studied Computer Engineering and Systems at the UNJBG in Tacna.
+I currently have Bachelor's degree in Computer Engineering and Systems. I have accumulated 7 years of experience performing various activities in software development, virtual learning platform administration, training teachers and students, designing advertising material, providing technical support, and customer service.
 
-I have 6 years of experience in the field of technology, and I am starting in the world of programming, thanks to the Javascript language, which managed to convince me to continue learning to become an experienced and quality developer.
+I enjoy autonomous and agile learning, and every day I seek to continue learning in order to consolidate my knowledge and grow personally and professionally. 
 
-These are my first learning repositories :)
+I consider myself passionate about cultivating the arts in general. I am currently seeking training in pedagogical and didactic skills so that I can devote myself to teaching in the technological and artistic fields.
 
 Thanks for visiting my GitHub profile.
-
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
-
-</details>
-
-
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
